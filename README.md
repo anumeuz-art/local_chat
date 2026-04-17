@@ -79,6 +79,3 @@ Looking for collaborators! Submit pull requests to `main`. Check the issues or f
 
 ---
 
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=CodeUpdaterBot/ClickUi&type=Date)](https://www.star-history.com/#CodeUpdaterBot/ClickUi&Date)
